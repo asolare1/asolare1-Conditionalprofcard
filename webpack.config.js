@@ -67,8 +67,5 @@ module.exports = {
         template: "src/index.html",
         favicon: "4geeks.ico"
     }),
-    new PrettierPlugin({
-        failSilently: true
-    }),
   ]
 };
